@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems written in JavaScript
 - Strings
 - Two Pointers
 - Prefix Sum
+- Sliding Window Problems
 
 ## Goal
 To improve problem-solving and data structures skills using JavaScript.
