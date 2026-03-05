@@ -18,6 +18,7 @@ The problems in this repository are organized based on the following patterns:
 - **Prefix Sum**
 - **Hash Maps**
 - **Stacks**
+- **Linked List**
 
 Each solution focuses on clarity, correctness, and recognizing the underlying pattern.
 
